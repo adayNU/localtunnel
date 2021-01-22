@@ -1,3 +1,7 @@
+# 2.0.2
+
+- Upgrade axios dependency
+
 # 2.0.1
 
 - Restore backwards compatibility
