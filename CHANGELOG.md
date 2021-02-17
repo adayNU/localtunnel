@@ -1,3 +1,7 @@
+# 2.0.3
+
+- Bring up to date with upstream version 2.0.2
+
 # 2.0.2
 
 - Upgrade axios dependency
